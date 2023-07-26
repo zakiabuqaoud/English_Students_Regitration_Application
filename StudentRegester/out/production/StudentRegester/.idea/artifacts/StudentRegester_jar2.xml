@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StudentRegester:jar2">
+    <output-path>$USER_HOME$/Desktop/English Students Registration</output-path>
+    <root id="archive" name="StudentRegester.jar">
+      <element id="module-output" name="StudentRegester" />
+    </root>
+  </artifact>
+</component>

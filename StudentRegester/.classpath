@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="out/artifacts/StudentRegester_jar/StudentRegester.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/StudentRegester_jar2/StudentRegester.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/StudentRegester_jar3/StudentRegester.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/StudentRegester_jar4/StudentRegester.jar"/>
+	<classpathentry kind="output" path="out/production/StudentRegester"/>
+</classpath>
